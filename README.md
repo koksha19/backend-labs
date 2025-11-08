@@ -1,8 +1,7 @@
-# NestJS Healthcheck Service
+# Backend labs
 
 ## Description
-Simple NestJS service with `/healthcheck` endpoint, Docker, and Render deployment.
-
+This repo contains labs for Backend development
 ## Install & Run Locally
 ```bash
 npm install
